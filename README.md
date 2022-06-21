@@ -20,7 +20,7 @@
 
 - 👯 I’m looking to collaborate & contribute on **FRONTEND** and **BACKEND** for building **web applications**
 
-- 👨‍💻 All of my projects are available at [https://rgzrgzm-webdev.netlify.app/](https://rgzrgzm-webdev.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://rgzrgzm-dev.netlify.app/](https://rgzrgzm-dev.netlify.app/)
 
 - 📫 How to reach me **rgzrgzm@gmail.com**
 
