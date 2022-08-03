@@ -18,7 +18,7 @@
 Hola! Soy Mario, estudiante de la vida y apasionado en la tecnología, me gusta aportar buenas ideas y resolver problemas creativamente.
 Busco potenciar mis habilidades y crecer profesionalmente 💡⚙️
 
-Comenzando como UXUI Designer, me motive a crearles vida a interfaces graficas que solo eran diseño, nacio una nueva pasion despues de conocer lo que es el desarrollo  web/aplicaciones y el arte que implica el resultado de cada proyecto realizado 🎨
+Comenzando como UXUI Designer, me motive a crearles vida a interfaces graficas que solo eran diseño, nacio una nueva pasion despues de conocer lo que es el desarrollo  web/aplicaciones y el arte que implica el resultado de cada proyecto realizado 🎨🖥️
 
 - 👯 Estoy buscando colaborar/contribuir en el lado **FRONTEND** para **web applications**
 
