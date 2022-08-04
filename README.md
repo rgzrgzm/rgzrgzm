@@ -45,10 +45,11 @@ Comenzando como UXUI Designer, me motive a crearles vida a interfaces graficas q
 <div><h3>E-commerce Pro-Ropa [ Proyecto Colaborativo ]</h3></div>
 <div>Website: https://pro-ropa-store.vercel.app/</div>
 <p align="center" margin-top="10" dir="auto">
-<img height="150" width="250" src="https://user-images.githubusercontent.com/87833482/182729649-2f9e143d-f913-4708-8951-b6ee7cc2e098.png" style="max-width: 100%;">
-<img height="150" width="250" src="https://user-images.githubusercontent.com/87833482/182729649-2f9e143d-f913-4708-8951-b6ee7cc2e098.png" style="max-width: 100%;">
-<img height="150" width="250" src="https://user-images.githubusercontent.com/87833482/182729649-2f9e143d-f913-4708-8951-b6ee7cc2e098.png" style="max-width: 100%;">
+<img height="200" width="300" src="https://user-images.githubusercontent.com/87833482/182735820-029aa336-f296-428f-a916-ab1cd69f822d.png" style="max-width: 100%;">
+<img height="200" width="300" src="https://user-images.githubusercontent.com/87833482/182736211-eb954487-5000-48ed-94a6-5bffb280fdc3.png" style="max-width: 100%;">
+<img height="200" width="300" src="https://user-images.githubusercontent.com/87833482/182736254-b4a5f2c2-e237-49b7-bc52-90cf2bfd17ef.png" style="max-width: 100%;">
 </p>  
+
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rgzrgzm&show_icons=true&locale=en&layout=compact" alt="rgzrgzm" /></p>
