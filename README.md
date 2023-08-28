@@ -1,4 +1,4 @@
-<h1 align="center">¡Hey soy Mario, bienvenido! :)👋</h1>
+<h1 align="center">¡Hey, soy Mario, bienvenido! :)👋</h1>
 
 <!-- GIF IMAGE -->
 <div id="header" align="center">
@@ -14,8 +14,6 @@
 
 <!-- PROFILE VIEWERS -->
 <p align="center"><img src="https://komarev.com/ghpvc/?username=rgzrgzm&label=Profile%20views&color=0e75b6&style=flat" alt="rgzrgzm" /></p>
-
-Hola! Soy Mario
 
 - 👯 Estoy buscando colaborar/contribuir en proyectos de desarrollo web
 
