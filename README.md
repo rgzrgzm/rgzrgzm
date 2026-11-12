@@ -38,38 +38,29 @@ What started as a personal component library became a standalone, interactive de
 
 **Another project:** [Soccerbase](https://github.com/rgzrgzm/soccerbase-app) — a web app using **Next.js** and **TypeScript**. [Live project](https://soccerbase.netlify.app/).
 
-## Technologies I work with
+## Technologies & expertise
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Frontend &amp; web</h3>
-      <p><code>JavaScript</code> <code>TypeScript</code> <code>HTML5</code> <code>CSS3</code></p>
-      <p><code>React</code> <code>Next.js</code> <code>React Native</code></p>
-      <p><code>Tailwind CSS</code> <code>Bootstrap</code> <code>Redux</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Backend &amp; data</h3>
-      <p><code>Node.js</code> <code>Express</code> <code>REST APIs</code></p>
-      <p><code>MongoDB</code> <code>PostgreSQL</code> <code>Firebase</code></p>
-      <p><code>Sequelize</code> <code>WebSockets</code> <code>MVC</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3>Design &amp; UI</h3>
-      <p><code>Figma</code> <code>Design Systems</code> <code>UI Components</code></p>
-      <p><code>Responsive Design</code> <code>Accessibility</code></p>
-      <p><code>Prototyping</code> <code>UX Thinking</code></p>
-    </td>
-    <td valign="top">
-      <h3>Development tools</h3>
-      <p><code>Git</code> <code>GitHub</code> <code>Postman</code></p>
-      <p><code>VS Code</code> <code>AI-assisted Development</code></p>
-      <p><code>Testing</code> <code>Debugging</code></p>
-    </td>
-  </tr>
-</table>
+The technologies, tools, and practices behind my work.
+
+### Frontend engineering
+`TypeScript` · `React` · `Next.js` · `JavaScript` · `Tailwind CSS` · `HTML5` · `CSS3`
+
+### Backend & data
+`Node.js` · `Express` · `REST APIs` · `PostgreSQL` · `MongoDB` · `Supabase`
+
+### UI/UX & design systems
+`Figma` · `Design Systems` · `Component Architecture` · `Responsive Design` · `Accessibility` · `Prototyping`
+
+### AI & developer tools
+`OpenAI Codex` · `ChatGPT` · `Git` · `GitHub` · `Postman` · `VS Code`
+
+<details>
+<summary><strong>Additional experience</strong></summary>
+<br>
+
+`React Native` · `Redux` · `Bootstrap` · `Sequelize` · `WebSockets`
+
+</details>
 
 ## How I work with AI
 
