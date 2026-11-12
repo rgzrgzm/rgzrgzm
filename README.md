@@ -1,30 +1,95 @@
-<h1 align="center">¡Hey, soy Mario, bienvenido! :)👋</h1>
-
-<!-- GIF IMAGE -->
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<!-- GitHub profile README for @rgzrgzm -->
+<div align="center">
+  <img src="./assets/hero.svg" alt="Mario Rodriguez — building interfaces with intention" width="100%" />
+  <p>
+    <a href="https://rgzrgzm-dev.netlify.app/">Portfolio</a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/rgzrgzm/forma-ui">Forma UI</a>
+    &nbsp;·&nbsp;
+    <a href="https://linkedin.com/in/rgzrgzm">LinkedIn</a>
+    &nbsp;·&nbsp;
+    <a href="mailto:rgzrgzm@gmail.com">Email</a>
+  </p>
 </div>
 
-<!-- BAGDES RSS -->
-<div id="badges" align="center">
-  <a href="https://linkedin.com/in/rgzrgzm" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+## A little about me
 
-<!-- PROFILE VIEWERS -->
-<p align="center"><img src="https://komarev.com/ghpvc/?username=rgzrgzm&label=Profile%20views&color=0e75b6&style=flat" alt="rgzrgzm" /></p>
+I'm **Mario**, a software developer based in **Mexicali, Mexico**. I enjoy taking ideas from the first sketch to a polished, working interface — combining **frontend engineering, thoughtful UX, and maintainable code**.
 
-- 👯 Estoy buscando colaborar/contribuir en proyectos de desarrollo web
+My work spans **React, Next.js, and TypeScript** on the frontend, as well as **Node.js, Express, and APIs** behind the scenes. I'm especially interested in **design systems**, reusable components, responsive layouts, and the small interactions that make software feel great.
 
-- 💼 Todos mis proyectos o trabajos pueden ser visibles en mi portfolio!  [https://rgzrgzm-dev.netlify.app/](https://rgzrgzm-dev.netlify.app/)
+> I like building things that are useful, intuitive, and enjoyable to use.
 
-- 📫 Contactame! Email: **rgzrgzm@gmail.com** WP: **https://wa.me/+526861482482**
+## Featured project — Forma UI
 
-<h3 align="left" style="margin-bottom: 20px;"> :hammer_and_wrench: Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://nodejs.org/es/" target="_blank" rel="noreferrer"> <img src="https://logos-download.com/wp-content/uploads/2016/09/Node_logo_NodeJS.png" alt="node" width="60" height="40"/> </a>
-<a href="https://www.mongodb.com/cloud/atlas/lp/try2?utm_content=controlhterms&utm_source=google&utm_campaign=gs_americas_mexico_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624326&adgroup=115749706303&gclid=Cj0KCQjw2MWVBhCQARIsAIjbwoOzct3-Y2iW8VEdsfdcKXr6hdBXyDzOzSDwTASD2_jY6lKlPPZl0r8aAv3ZEALw_wcB" target="_blank" rel="noreferrer"> <img src="https://citywebconsultants.co.uk/sites/default/files/inline-images/mongo-medium.png" alt="mongo" width="45" height="50"/> </a>
- <a href="https://es.redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://carlosazaustre.es/images/como-funciona-redux-conceptos-basicos/logo_redux.png" alt="redux" width="70" height="50"/> </a>
+<a href="https://github.com/rgzrgzm/forma-ui">
+  <img src="./assets/forma-ui.svg" alt="Forma UI, a personal component library and design-system explorer" width="100%" />
+</a>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rgzrgzm&show_icons=true&locale=en&layout=compact" alt="rgzrgzm" /></p>
+**[Explore Forma UI →](https://github.com/rgzrgzm/forma-ui)**
+
+What started as a personal component library became a standalone, interactive design-system playground. It brings UI foundations, reusable components, responsive layouts, and copyable examples together in one place.
+
+- **33** interactive component entries with variants and states
+- **9** interface recipes and layouts
+- **10** color palettes, with light and dark themes
+- Copyable **HTML, CSS, and JavaScript** examples
+- Keyboard interactions, responsive behavior, and documented QA checks
+
+**Another project:** [Soccerbase](https://github.com/rgzrgzm/soccerbase-app) — a web app using **Next.js** and **TypeScript**. [Live project](https://soccerbase.netlify.app/).
+
+## Technologies I work with
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Frontend &amp; web</h3>
+      <p><code>JavaScript</code> <code>TypeScript</code> <code>HTML5</code> <code>CSS3</code></p>
+      <p><code>React</code> <code>Next.js</code> <code>React Native</code></p>
+      <p><code>Tailwind CSS</code> <code>Bootstrap</code> <code>Redux</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Backend &amp; data</h3>
+      <p><code>Node.js</code> <code>Express</code> <code>REST APIs</code></p>
+      <p><code>MongoDB</code> <code>PostgreSQL</code> <code>Firebase</code></p>
+      <p><code>Sequelize</code> <code>WebSockets</code> <code>MVC</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>Design &amp; UI</h3>
+      <p><code>Figma</code> <code>Design Systems</code> <code>UI Components</code></p>
+      <p><code>Responsive Design</code> <code>Accessibility</code></p>
+      <p><code>Prototyping</code> <code>UX Thinking</code></p>
+    </td>
+    <td valign="top">
+      <h3>Development tools</h3>
+      <p><code>Git</code> <code>GitHub</code> <code>Postman</code></p>
+      <p><code>VS Code</code> <code>AI-assisted Development</code></p>
+      <p><code>Testing</code> <code>Debugging</code></p>
+    </td>
+  </tr>
+</table>
+
+## How I work with AI
+
+I use **ChatGPT and AI-assisted tools** as a practical part of my development workflow — not as a replacement for understanding the code, but as a way to explore ideas and iterate faster.
+
+| Where AI helps | How I use it |
+| --- | --- |
+| **UI ideation** | Explore layouts, component variants, and interaction patterns. |
+| **Prototyping** | Turn ideas and visual references into an initial implementation. |
+| **Development** | Work through implementation options, debugging, and refactoring. |
+| **Quality & documentation** | Draft test ideas, improve UX copy, and make documentation easier to follow. |
+
+I still care about **reviewing the output, understanding the tradeoffs, and validating the final experience**.
+
+## Beyond the editor
+
+I enjoy learning new tools, building side projects just to try an idea, and appreciating the details in great design. Usually fueled by **black coffee** — and always happy to unwind with a good video game. ☕🎮
+
+## Let's connect
+
+I'm interested in connecting with people who care about **frontend engineering, thoughtful interfaces, and useful software**.
+
+**[Portfolio](https://rgzrgzm-dev.netlify.app/)** · **[LinkedIn](https://linkedin.com/in/rgzrgzm)** · **[Email me](mailto:rgzrgzm@gmail.com)** · **[GitHub](https://github.com/rgzrgzm)**
