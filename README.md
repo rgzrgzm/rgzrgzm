@@ -36,7 +36,6 @@ What started as a personal component library became a standalone, interactive de
 - Copyable **HTML, CSS, and JavaScript** examples
 - Keyboard interactions, responsive behavior, and documented QA checks
 
-**Another project:** [Soccerbase](https://github.com/rgzrgzm/soccerbase-app) — a web app using **Next.js** and **TypeScript**. [Live project](https://soccerbase.netlify.app/).
 
 ## Technologies & expertise
 
