@@ -73,7 +73,7 @@ What started as a personal component library became a standalone, interactive de
 
 ## How I work with AI
 
-I use **ChatGPT and AI-assisted tools** as a practical part of my development workflow — not as a replacement for understanding the code, but as a way to explore ideas and iterate faster.
+I use **ChatGPT, OpenAI Codex, and other AI-assisted tools** as a practical part of my development workflow — not as a replacement for understanding the code, but as a way to explore ideas, solve problems, and iterate faster.
 
 | Where AI helps | How I use it |
 | --- | --- |
